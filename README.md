@@ -8,10 +8,10 @@ This project utilizes Solidity 0.5.0:
 
 Remix 
 
-Contributors
+# Contributors
 
 Completed by Nevyn Brown
 
-License
+# License
 
 MIT
